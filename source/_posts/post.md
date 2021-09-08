@@ -1,7 +1,8 @@
 ---
 title: Enable Utterances in landscape
 tags:
-  - config
+  - hexo
+  - utterances
 date: 2021-09-08 20:24:47
 ---
 

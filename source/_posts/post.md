@@ -1,8 +1,8 @@
 ---
 title: Enable Utterances in landscape
-date: {{ date }}
 tags:
-- config
+  - config
+date: 2021-09-08 20:24:47
 ---
 
 Landscape is hexo's default theme which only support disqus for comment.
